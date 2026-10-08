@@ -1,0 +1,7 @@
+Student Record Program - Notes
+
+This program accepts basic student information
+and displays the student record.
+
+The program is intended for practicing
+basic C input and output.
