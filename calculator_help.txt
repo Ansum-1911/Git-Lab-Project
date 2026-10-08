@@ -1,0 +1,9 @@
+Calculator Program - Usage Guide
+
+This program performs basic arithmetic operations on two numbers.
+
+Compile:
+gcc calculator.c -o calculator
+
+Run:
+.\calculator.exe
