@@ -42,5 +42,4 @@ Similarly, for the student record program:
 - .gitignore
 
  # #   L a t e s t   U p d a t e 
-This project demonstrates basic C programming and Git version control on the main branch.
- 
+This project demonstrates basic C programming and Git version control on both branches.
